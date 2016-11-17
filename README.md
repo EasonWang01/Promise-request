@@ -15,8 +15,8 @@ Nodejs http module with promise
 ```javascript
 	 get({
 	   host: 'localhost',
-           port: '3001',
-	 path: '/test'
+         port: '3001',
+	   path: '/test'
 	 },'hi')
 	 .then(function(data){
 	   console.log(data)
