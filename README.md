@@ -3,9 +3,9 @@ Nodejs http module with promise
 
 ```
 	 post({
-		 host: 'localhost',
-		 port: '3001',
-		 path: '/test'
+	   host: 'localhost',
+	   port: '3001',
+	   path: '/test'
 	 },'hi')
 	 .then(function(data){
 		 console.log(data)
