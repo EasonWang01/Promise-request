@@ -1,7 +1,7 @@
 # Promise-request
 Nodejs http module with promise
 
-```
+```javascript
 	 post({
 	   host: 'localhost',
 	   port: '3001',
@@ -12,7 +12,7 @@ Nodejs http module with promise
 	 })
 ```
 
-```
+```javascript
 	 get({
 	   host: 'localhost',
            port: '3001',
@@ -23,7 +23,7 @@ Nodejs http module with promise
 	 })
 ```
 
-```
+```javascript
 	 post({
 	   host: 'localhost',
 	   port: '3001',
