@@ -1,6 +1,16 @@
 # Promise-request
 Nodejs http module with promise
 
+#Usage
+```
+npm install prore
+```
+
+then
+```
+import { post, get } from 'prore'
+```
+
 ```javascript
 	 post({
 	   host: 'localhost',
