@@ -1,0 +1,23 @@
+{
+  "name": "prore",
+  "version": "1.0.0",
+  "description": "Promise with nodejs http module",
+  "main": "./src/req.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EasonWang01/Promise-request.git"
+  },
+  "keywords": [
+    "Promise",
+    "http"
+  ],
+  "author": "yicheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EasonWang01/Promise-request/issues"
+  },
+  "homepage": "https://github.com/EasonWang01/Promise-request#readme"
+}
